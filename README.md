@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Visitor Count:
+Visitor Count: <br>
 ![Visitor Count](https://profile-counter.glitch.me/Apiros-rt/count.svg)
 
 <!--
