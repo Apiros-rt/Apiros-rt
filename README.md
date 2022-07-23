@@ -1,9 +1,8 @@
 ### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/Apiros-rt/count.svg)
 
 <!--
 **Apiros-rt/Apiros-rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Visitor Count](https://profile-counter.glitch.me/Apiros-rt/count.svg)
 
 Here are some ideas to get you started:
 
